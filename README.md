@@ -25,7 +25,7 @@ This repository provides a comprehensive framework for fault injection, sensitiv
 ## 🛠️ Setup
 
 ```bash
-git clone https://github.com/your-username/attentionbreaker.git
+git clone https://github.com/TIES-Lab/attnbreaker.git
 cd attentionbreaker
 pip install -r requirements.txt
 ```
