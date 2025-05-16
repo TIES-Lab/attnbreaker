@@ -1,4 +1,4 @@
-# 🧠 AttentionBreaker: A Framework for Fault Sensitivity and Optimization in Transformers
+# 🧠 AttentionBreaker: A Framework for Parameter Set Optimization for Bit-Flip Attacks in Transformers
 
 This repository provides a comprehensive framework for fault injection, sensitivity analysis, and optimization targeting transformer-based language models. It includes tools for Bit-Flip Attacks (BFA), layer-wise sensitivity scoring, and ablation studies to assess model robustness and performance degradation.
 
